@@ -1,0 +1,48 @@
+
+		h1 {
+			display: inline;
+			color: #FF00FF;
+			text-decoration: underline;
+		}
+		#header {
+			color: blue;
+			border-bottom: 2px solid black;
+		}
+		#footer {
+			border: red solid 2px;
+			font-color: right;
+		}
+		li {
+			float: left;
+		}
+		* {
+			border: 1px solid blue;
+			margin:0;
+			padding:0;
+			background-color: gray;
+		}
+		p {
+			padding: 10px;
+			margin: 1%;
+			width: 30%;
+			font-family: Verdana;
+		}
+		.clear {
+			clear:both;
+		}
+		#header ul {
+			float: right;
+		}
+		.content img {
+			float:right;
+		}
+		.content p {
+			float: left;
+		}
+		h1, h2 {
+			font-size: 20pt;
+		}
+		* {
+			font-family: Verdana;
+		}
+	
