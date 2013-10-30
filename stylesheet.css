@@ -1,6 +1,6 @@
 		h1 {
 			display: block;
-			color: black;
+			color: #878C9C;
 			text-decoration: bold;
 			text-align: center;
 			font-size: 50px ;
@@ -11,13 +11,13 @@
 		h2 {
 			text-align: center;
 			font-size: 30px;
+			color: #878C9C;
 		}
 		#header {
-			
-			border-bottom: 2px solid black;
+			border-bottom: 2px solid #878C9C;
 		}
 		#footer {
-			border: black solid 2px;
+			text-align: center;
 			font-color: gray;
 		}
 		#email_button {
@@ -31,6 +31,7 @@
 			margin:0;
 			padding:0;
 			font-family: arial,sans-serif;
+			text-color: #878C9C;
 		}
 		p {
 			padding: 10px;
@@ -51,5 +52,6 @@
 		}
 		.content p {
 			float: left;
+			color: #878C9C;
 		}
 		
