@@ -20,6 +20,10 @@
 			text-align: center;
 			font-color: gray;
 		}
+		#footer img {
+			width: 64px;
+			height: 64px;
+		}
 		#email_button {
 			height: 50px;
 			width: 50px;
@@ -31,12 +35,13 @@
 			margin:0;
 			padding:0;
 			font-family: arial,sans-serif;
-			text-color: #878C9C;
+			color: #878C9C;
 		}
 		p {
-			padding: 10px;
+			padding: 5px;
 			margin: 1%;
-			width: 30%;
+			margin-bottom: 0%;
+			width: 70%;
 		
 		}
 		.clear {
@@ -49,6 +54,10 @@
 		}
 		.content img {
 			float:right;
+			width:300px;
+			height: auto;
+			padding: 20px;
+			float:top;
 		}
 		.content p {
 			float: left;
