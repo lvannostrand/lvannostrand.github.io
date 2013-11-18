@@ -54,8 +54,8 @@
 		}
 		.content img {
 			float:right;
-			width:auto;
-			height: 300px;
+			width:300px;
+			height: auto;
 			padding: 20px;
 			float:top;
 		}
